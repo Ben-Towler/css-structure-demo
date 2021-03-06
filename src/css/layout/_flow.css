@@ -1,0 +1,12 @@
+.flow {
+	display: grid;
+	gap: 3rem;
+}
+
+.flow--cols {
+	grid-template-columns: auto;
+}
+
+.flow--rows {
+	grid-template-rows: auto;
+}

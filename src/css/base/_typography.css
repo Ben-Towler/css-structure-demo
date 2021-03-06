@@ -1,0 +1,20 @@
+h1, h2, h3, h4, h5, h6 {
+	font-family: var(--font-family-primary);
+}
+
+h1 {
+	font-size: var(--size-font-xl);
+}
+
+h2 {
+	font-size: var(--size-font-l);
+}
+
+h3, h4, h5, h6 {
+	font-size: var(--size-font-m);
+}
+
+p {
+	font-family: var(--font-family-secondary);
+	font-size: var(--size-font-r);
+}
